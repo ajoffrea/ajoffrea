@@ -1,4 +1,4 @@
-## :v: Hi everyone! I'm Alexander Joffre, Data Engineer & Business Intelligence Consultant
+## :v: Hi everyone! I'm Alexander Joffre, Data Engineer & Full-Stack Web Developer
 
 ### Professional Profile
 10+ years of experience handling huge datasets and developing web solutions. Wide knowledge in relational and non-relational database modeling and querying, ETL and Kimball's methodology. I was the technical leader of a team of consultants in the development and implementations of data pipelines to make machine-readable databases ready to be used by the data science team
