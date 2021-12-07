@@ -11,19 +11,20 @@
 
 ### :books: Main Technologies
 - **Python** for Data Engineering and Webscraping
-- **JS** for web development
+- **JS / NodeJS** for web development
 - **SQL** for Data Analysis (Oracle, SQL Server, PostgreSQL)
 - **MongoDB** (Querying and modeling techniques)
 - **PowerBI**
 - **Qlikview**
-- **Google Big Query**
 
 ### :books: Web Development
 - **NodeJS / ExpressJS**
-- **VueJS**
+- **ReactJS / VueJS**
 - **HTML5**
 - **CSS / SCSS**
+- **Tailwind CSS**
+- **Sequelize ORM / Mongoose ODM**
 
 ### :calendar: Activities
-- (4+ years) Database Specialist Teacher
+- (5+ years) Database Specialist Teacher
 - (Jul 2018) Volunteer as mentor of data pipelines designing in Hackathon BCI Labs / Angel's Hack
