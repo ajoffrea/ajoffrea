@@ -1,7 +1,7 @@
 ## :v: Hi everyone! I'm Alexander Joffre, Data Engineer & Business Intelligence Consultant
 
 ### Professional Profile
-9+ years of experience handling huge datasets. Wide knowledge in relational and non-relational database modeling and querying, ETL and Kimball's methodology. I was the technical leader of a team of consultants in the development and implementations of data pipelines to make machine-readable databases ready to be used by the data science team
+10+ years of experience handling huge datasets and developing web solutions. Wide knowledge in relational and non-relational database modeling and querying, ETL and Kimball's methodology. I was the technical leader of a team of consultants in the development and implementations of data pipelines to make machine-readable databases ready to be used by the data science team
 
 ### :chart_with_upwards_trend: Skills
 - Team leading
