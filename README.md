@@ -24,6 +24,6 @@
 - **Tailwind CSS**
 - **Sequelize ORM / Mongoose ODM**
 
-### :calendar: Activities
+### :calendar: Extra Activities
 - (5+ years) Mentoring in Software Development
 - (Jul 2018) Volunteer as mentor of data pipelines designing in Hackathon BCI Labs / Angel's Hack
